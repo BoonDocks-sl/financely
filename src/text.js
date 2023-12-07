@@ -145,6 +145,5 @@ const Dashboard = () => {
             )}
         </div>
     );
-}; https://course.acciojob.com/start-project?project=fc46c9c4-026f-4b45-8d5f-5399d1b029fa
-
+};
 export default Dashboard;
